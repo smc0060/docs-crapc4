@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-bvdowj.atrei.io/sitemap.xml
